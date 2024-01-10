@@ -7,7 +7,6 @@ Software Engineer
 I am an aspiring software engineer. I am currently studying computer science at Tecnológico de Monterrey and am eager to learn as much as possible about the field. I am particularly interested in learning about new technologies and ways to use them to solve complex problems. In my spare time, I enjoy working on personal projects and learning about new programming languages and frameworks. I am excited about the opportunity to work with other talented professionals and to contribute to the development of innovative software solutions.
 
 * 🌍  I'm based in Querétaro, México
-* 🖥️  See my portfolio at [More about me](http://armandogtzrojo.tech)
 * ✉️  You can contact me at [gurom84@outlook.com](mailto:gurom84@outlook.com)
 
 ### Skills
