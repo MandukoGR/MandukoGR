@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am an aspiring software engineer. I am currently studying computer science at Tecnológico de Monterrey and am eager to learn as much as possible about the field. I am particularly interested in learning about new technologies and ways to use them to solve complex problems. In my spare time, I enjoy working on personal projects and learning about new programming languages and frameworks. I am excited about the opportunity to work with other talented professionals and to contribute to the development of innovative software solutions.
+I am a software engineer passionate about building scalable backend systems and dynamic web applications.
+
+I hold a B.S. in Computer Science and Technology from Tecnológico de Monterrey and have professional experience developing backend services and integrations using Node.js, TypeScript, Python, and C#, as well as frontend applications with React and Next.js.
+
+I enjoy solving complex problems through clean architecture, secure integrations, efficient APIs, and user-friendly interfaces. I have a strong interest in system design, cloud services, and improving engineering workflows through better tooling.
+
+I thrive in agile environments where collaboration, adaptability, and continuous improvement are key. I’m excited to work with talented teams and contribute to building reliable, impactful software solutions.
+
 
 * 🌍  I'm based in Querétaro, México
 * ✉️  You can contact me at [gurom84@outlook.com](mailto:gurom84@outlook.com)
