@@ -14,7 +14,7 @@ I thrive in agile environments where collaboration, adaptability, and continuous
 
 
 * 🌍  I'm based in Querétaro, México
-* ✉️  You can contact me at [gurom84@outlook.com](mailto:ar.gutierrezrojo@gmail.com)
+* ✉️  You can contact me at [ar.gutierrezrojo@gmail.com](mailto:ar.gutierrezrojo@gmail.com)
 
 ### Skills
 
